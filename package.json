@@ -1,0 +1,24 @@
+{
+  "name": "regulated-mongoose",
+  "version": "0.0.1",
+  "description": "regulated mongoose",
+  "main": "lib/regulated-mongoose.js",
+  "dependencies": {
+    "mongoose": "*"
+  },
+  "directories": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nunun/regulated-mongoose.git"
+  },
+  "keywords": [
+    "mongoose",
+    "document",
+    "utility"
+  ],
+  "author": {
+    "name": "nunun"
+  },
+  "license": "MIT"
+}
